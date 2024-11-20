@@ -80,35 +80,37 @@ Kondisi IF
 ![Screenshot 2024-11-14 112854](https://github.com/user-attachments/assets/35112a5b-8d64-48ec-920f-22c0705f48f3)
 
 Hasilnya
-![Screenshot 2024-11-14 112828](https://github.com/user-attachments/assets/96704599-1dba-4e83-8de6-3ed395de7197)
+![Screenshot 2024-11-15 091013](https://github.com/user-attachments/assets/498dab25-67bb-4b68-a6e8-1e0458487b5a)
 
 Kondisi Switch
 
 ![Screenshot 2024-11-14 113123](https://github.com/user-attachments/assets/81fabe96-4df8-4a16-8c1e-96d4e6d538df)
 
 Hasilnya
-![Screenshot 2024-11-14 163818](https://github.com/user-attachments/assets/5b972f17-0d3c-466c-8b58-e51ae8fd0364)
+![Screenshot 2024-11-15 091104](https://github.com/user-attachments/assets/a7bed4f9-e07b-4ccc-8b88-dc727c505ab7)
+
 
 Perulangan for
 
 ![Screenshot 2024-11-14 113310](https://github.com/user-attachments/assets/08d61a30-af82-4c0e-b08b-5dfa4dc885e3)
 
 Hasilnya
-![Screenshot 2024-11-14 113654](https://github.com/user-attachments/assets/260a9d2c-ad41-432e-b9cd-aa2d19af040b)
+![Screenshot 2024-11-20 082152](https://github.com/user-attachments/assets/69794090-f1c7-4abb-b453-cb23b442b3b1)
+
 
 Perulangan while
 
 ![Screenshot 2024-11-14 113855](https://github.com/user-attachments/assets/81865f3a-163c-4b1e-8129-c4c060141af8)
 
 Hasilnya
-![Screenshot 2024-11-14 113837](https://github.com/user-attachments/assets/f56989a3-a089-46ed-b86a-2ef03536bd5f)
+![Screenshot 2024-11-20 064201](https://github.com/user-attachments/assets/933cbe11-a914-43e2-8e3c-45b87a82b59d)
 
 Perulangan dowhile
 
 ![Screenshot 2024-11-14 114008](https://github.com/user-attachments/assets/ee541209-e9d4-4857-aedb-d59cc5963244)
 
 Hasilnya
-![Screenshot 2024-11-14 113950](https://github.com/user-attachments/assets/01a00f67-8011-4360-a785-080cde905122)
+![Screenshot 2024-11-20 064236](https://github.com/user-attachments/assets/a9bb47a4-d079-4d8f-8c82-35078bfe740a)
 
 
 Pertanyaan dan Tugas
