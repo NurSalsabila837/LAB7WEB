@@ -107,6 +107,7 @@ Hasilnya
 
 Perulangan dowhile
 
+
 ![Screenshot 2024-11-14 114008](https://github.com/user-attachments/assets/ee541209-e9d4-4857-aedb-d59cc5963244)
 
 Hasilnya
@@ -124,4 +125,5 @@ JAWAB
 ![Screenshot 2024-11-14 114414](https://github.com/user-attachments/assets/5226d0df-065e-4368-ba8e-cdb108836b8f)
 
 Hasilnya
-![Screenshot 2024-11-14 114315](https://github.com/user-attachments/assets/dbb38005-4e95-43ae-b7a6-fa4c7284bb8f)
+
+![image](https://github.com/user-attachments/assets/b0c25eb7-6cf8-4b9c-986c-a95b8f0a5875)
