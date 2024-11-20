@@ -65,14 +65,15 @@ Membuat Form Input
 ![Screenshot 2024-11-13 182118](https://github.com/user-attachments/assets/06f09dc7-9bf5-4b2b-91a2-9d8b3d8f6fb5)
 
 Hasilnya 
-![Screenshot 2024-11-13 182048](https://github.com/user-attachments/assets/14f9ac7d-5f40-48af-ac9d-52d6e47f39a9)
+![Screenshot 2024-11-20 081633](https://github.com/user-attachments/assets/a91ef974-20a4-4a99-8bbd-465365541da1)
 
 Operator
 
 ![Screenshot 2024-11-14 112711](https://github.com/user-attachments/assets/2314eaae-c84a-409d-9203-4599fc831425)
 
 Hasilnya 
-![Screenshot 2024-11-14 112614](https://github.com/user-attachments/assets/2e8249ec-3835-4fef-8c86-6b3be6979467)
+![Screenshot 2024-11-20 081721](https://github.com/user-attachments/assets/9dd6bd05-f3ff-435a-83a8-de4eb6f9afe6)
+
 
 Kondisi IF
 
