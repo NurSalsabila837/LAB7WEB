@@ -47,7 +47,7 @@ Hasilnya
 Variable PHP
 
 Menambahkan variable pada program.
-![Screenshot 2024-11-13 171427](https://github.com/user-attachments/assets/96888b01-bb3e-422d-9d46-eb30f273702e)
+![Screenshot 2024-11-20 082334](https://github.com/user-attachments/assets/a0606c11-9e30-4fab-9fbe-870923b2011d)
 
 Hasilnya
 ![Screenshot 2024-11-20 081135](https://github.com/user-attachments/assets/0130af72-c808-4d75-9929-f82a6fba9ec4)
