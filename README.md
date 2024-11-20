@@ -41,7 +41,8 @@ Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat 
 ![Screenshot 2024-11-13 170953](https://github.com/user-attachments/assets/8bca6586-e014-406f-91c5-83981d4c1d5a)
 
 Hasilnya
-![Screenshot 2024-11-13 170816](https://github.com/user-attachments/assets/9a1d6bd0-6dcb-4ff8-b1fd-023ced89628a)
+![Screenshot 2024-11-20 081004](https://github.com/user-attachments/assets/f3ee9181-1a5c-4e2e-bd42-2c1887102672)
+
 
 Variable PHP
 
@@ -49,14 +50,15 @@ Menambahkan variable pada program.
 ![Screenshot 2024-11-13 171427](https://github.com/user-attachments/assets/96888b01-bb3e-422d-9d46-eb30f273702e)
 
 Hasilnya
-![Screenshot 2024-11-13 171308](https://github.com/user-attachments/assets/3f80e1a8-0889-4b99-8737-68a46d88d815)
+![Screenshot 2024-11-20 081135](https://github.com/user-attachments/assets/0130af72-c808-4d75-9929-f82a6fba9ec4)
 
 Predefine Variable $_GET
 
 ![Screenshot 2024-11-13 173438](https://github.com/user-attachments/assets/6f98dd1e-fa51-49a1-b28a-74fb91c5f3ae)
 
 Hasilnya
-![Screenshot 2024-11-13 173409](https://github.com/user-attachments/assets/c5b42d7f-8ed0-4d33-9cad-a391c9c8ded1)
+![Screenshot 2024-11-20 081326](https://github.com/user-attachments/assets/338c7744-3e93-4d5a-a48c-f4034b57dfa7)
+
 
 Membuat Form Input
 
