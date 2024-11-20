@@ -67,6 +67,7 @@ Membuat Form Input
 ![Screenshot 2024-11-13 182118](https://github.com/user-attachments/assets/06f09dc7-9bf5-4b2b-91a2-9d8b3d8f6fb5)
 
 Hasilnya 
+
 ![Screenshot 2024-11-20 081633](https://github.com/user-attachments/assets/a91ef974-20a4-4a99-8bbd-465365541da1)
 
 Operator
@@ -74,6 +75,7 @@ Operator
 ![Screenshot 2024-11-14 112711](https://github.com/user-attachments/assets/2314eaae-c84a-409d-9203-4599fc831425)
 
 Hasilnya 
+
 ![Screenshot 2024-11-20 081721](https://github.com/user-attachments/assets/9dd6bd05-f3ff-435a-83a8-de4eb6f9afe6)
 
 
@@ -82,6 +84,7 @@ Kondisi IF
 ![Screenshot 2024-11-14 112854](https://github.com/user-attachments/assets/35112a5b-8d64-48ec-920f-22c0705f48f3)
 
 Hasilnya
+
 ![Screenshot 2024-11-15 091013](https://github.com/user-attachments/assets/498dab25-67bb-4b68-a6e8-1e0458487b5a)
 
 Kondisi Switch
@@ -89,6 +92,7 @@ Kondisi Switch
 ![Screenshot 2024-11-14 113123](https://github.com/user-attachments/assets/81fabe96-4df8-4a16-8c1e-96d4e6d538df)
 
 Hasilnya
+
 ![Screenshot 2024-11-15 091104](https://github.com/user-attachments/assets/a7bed4f9-e07b-4ccc-8b88-dc727c505ab7)
 
 
