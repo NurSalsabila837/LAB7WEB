@@ -41,6 +41,7 @@ Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat 
 ![Screenshot 2024-11-13 170953](https://github.com/user-attachments/assets/8bca6586-e014-406f-91c5-83981d4c1d5a)
 
 Hasilnya
+
 ![Screenshot 2024-11-20 081004](https://github.com/user-attachments/assets/f3ee9181-1a5c-4e2e-bd42-2c1887102672)
 
 
@@ -50,6 +51,7 @@ Menambahkan variable pada program.
 ![Screenshot 2024-11-20 082334](https://github.com/user-attachments/assets/a0606c11-9e30-4fab-9fbe-870923b2011d)
 
 Hasilnya
+
 ![Screenshot 2024-11-20 081135](https://github.com/user-attachments/assets/0130af72-c808-4d75-9929-f82a6fba9ec4)
 
 Predefine Variable $_GET
